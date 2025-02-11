@@ -87,8 +87,3 @@ Si tienes sugerencias o ideas adicionales, no dudes en:
 🙌 ¡Gracias por tu interés en este proyecto! 🚀  
 
 ---
-
-#### **Contribuciones**  
-¡Cualquier comentario o contribución es bienvenida! Si tienes sugerencias o ideas adicionales, no dudes en crear un pull request o abrir un issue.  
-
----
